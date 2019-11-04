@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Clicky-Game/static/css/main.f6de48f2.chunk.css",
-    "main.js": "/Clicky-Game/static/js/main.fc512c1f.chunk.js",
-    "main.js.map": "/Clicky-Game/static/js/main.fc512c1f.chunk.js.map",
-    "runtime-main.js": "/Clicky-Game/static/js/runtime-main.ca802268.js",
-    "runtime-main.js.map": "/Clicky-Game/static/js/runtime-main.ca802268.js.map",
-    "static/js/2.b1c2c3c5.chunk.js": "/Clicky-Game/static/js/2.b1c2c3c5.chunk.js",
-    "static/js/2.b1c2c3c5.chunk.js.map": "/Clicky-Game/static/js/2.b1c2c3c5.chunk.js.map",
-    "index.html": "/Clicky-Game/index.html",
-    "precache-manifest.c923fbada95ad3c648dbcde08f243d3e.js": "/Clicky-Game/precache-manifest.c923fbada95ad3c648dbcde08f243d3e.js",
-    "service-worker.js": "/Clicky-Game/service-worker.js",
-    "static/css/main.f6de48f2.chunk.css.map": "/Clicky-Game/static/css/main.f6de48f2.chunk.css.map",
-    "static/media/index.css": "/Clicky-Game/static/media/njnaruto.5a5bcdea.woff"
+    "main.css": "/Naruto-Clicky-Game/static/css/main.0103cbbc.chunk.css",
+    "main.js": "/Naruto-Clicky-Game/static/js/main.936eb569.chunk.js",
+    "main.js.map": "/Naruto-Clicky-Game/static/js/main.936eb569.chunk.js.map",
+    "runtime-main.js": "/Naruto-Clicky-Game/static/js/runtime-main.fa2d17b8.js",
+    "runtime-main.js.map": "/Naruto-Clicky-Game/static/js/runtime-main.fa2d17b8.js.map",
+    "static/js/2.30608537.chunk.js": "/Naruto-Clicky-Game/static/js/2.30608537.chunk.js",
+    "static/js/2.30608537.chunk.js.map": "/Naruto-Clicky-Game/static/js/2.30608537.chunk.js.map",
+    "index.html": "/Naruto-Clicky-Game/index.html",
+    "precache-manifest.d5b72fcf1a24cb786c390af091c8d4e8.js": "/Naruto-Clicky-Game/precache-manifest.d5b72fcf1a24cb786c390af091c8d4e8.js",
+    "service-worker.js": "/Naruto-Clicky-Game/service-worker.js",
+    "static/css/main.0103cbbc.chunk.css.map": "/Naruto-Clicky-Game/static/css/main.0103cbbc.chunk.css.map",
+    "static/media/index.css": "/Naruto-Clicky-Game/static/media/njnaruto.5a5bcdea.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca802268.js",
-    "static/js/2.b1c2c3c5.chunk.js",
-    "static/css/main.f6de48f2.chunk.css",
-    "static/js/main.fc512c1f.chunk.js"
+    "static/js/runtime-main.fa2d17b8.js",
+    "static/js/2.30608537.chunk.js",
+    "static/css/main.0103cbbc.chunk.css",
+    "static/js/main.936eb569.chunk.js"
   ]
 }
